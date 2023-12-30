@@ -13,3 +13,4 @@ git commit -m "commit desc"-- it can delete all ,add exsiting
 
 git log --- to cheek all commit 
 
+git checkout <commit hash code>-- to roll back on prvious version
