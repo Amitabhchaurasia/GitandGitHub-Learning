@@ -32,3 +32,15 @@ or git push it will also work
 
 ##To push your branch u need to checkOut into that brach and then
 git checkout branchName, git push -u origin branchName
+
+
+#IF WE WANT TO WORK ONAOTHER REPO , THEN FIRST WE NEED TO FORK THAT REPO
+AND THEN
+git clone "url of that repo"--to clone that repo locally
+
+and if made any changes in this repo , then to do push we need to do same 
+git add .
+git commit -m "desc"
+git push -u origin master or git push ---to push the changes 
+# and then if we and to makes chnges in parent repo , we can create pull request 
+from github
