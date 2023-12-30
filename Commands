@@ -10,4 +10,5 @@ git add fileName -- to put in in staging Arae
 
 git commit -m "commit desc"-- it can delete all ,add exsiting
 
+git log --- to cheek all commit 
 
