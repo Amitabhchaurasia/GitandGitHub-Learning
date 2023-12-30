@@ -6,7 +6,7 @@ from there we can edit both , and then Ctrl+S to save
 and Ctrl+W to close editor
 
 git status -- to cheek the status 
-git add fileName -- to put in in staging Arae
+git add fileName -- to put in in staging Arae or git add . ---it will breing all file into staging area
 
 git commit -m "commit desc"-- it can delete all ,add exsiting
 
