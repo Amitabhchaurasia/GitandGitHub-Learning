@@ -22,3 +22,7 @@ git branch branchName -b branchName -- it will create breanch and diretly cheeko
 in it 
 
 git merge branchName -- to merge that branch in current branch
+
+git remote add origin "repo link"---which we want to clone repo
+git brach -M master -- to rename current branch to the master
+git push -u origin master-- to push the remote repo 
