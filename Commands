@@ -1,0 +1,6 @@
+git cofig --global user.name "To Set UserName"
+git cofig --global user.email "To Set Git Email"
+
+git cofig --global --edit , it will open config file 
+from there we can edit both , and then Ctrl+S to save
+and Ctrl+W to close editor
