@@ -30,3 +30,5 @@ git push -u origin master-- to push the remote repo
 git push -u origin master -- to push , we some changes made
 or git push it will also work 
 
+##To push your branch u need to checkOut into that brach and then
+git checkout branchName, git push -u origin branchName
