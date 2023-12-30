@@ -15,3 +15,8 @@ git log --- to cheek all commit
 
 git checkout <commit hash code>-- to roll back on so commit
 git checkout master --- to roll back on same 
+
+git branch --to cheek all branch 
+git brach branchName ---to create new brach
+git branch branchName -b branchName -- it will create breanch and diretly cheekout
+in it 
