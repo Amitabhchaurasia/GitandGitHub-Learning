@@ -26,3 +26,7 @@ git merge branchName -- to merge that branch in current branch
 git remote add origin "repo link"---which we want to clone repo
 git brach -M master -- to rename current branch to the master
 git push -u origin master-- to push the remote repo 
+
+git push -u origin master -- to push , we some changes made
+or git push it will also work 
+
