@@ -18,7 +18,7 @@ git checkout master --- to roll back on same
 
 git branch --to cheek all branch 
 git brach branchName ---to create new brach
-git branch branchName -b branchName -- it will create breanch and diretly cheekout
+git checkout branchName -b branchName -- it will create breanch and diretly cheekout
 in it 
 
 git merge branchName -- to merge that branch in current branch
